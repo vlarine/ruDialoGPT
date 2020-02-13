@@ -55,5 +55,14 @@ There is the script to start the interaction:
 ![](football.gif)
 
 
+## Run a telegram bot
+
+A telegram bot is based on code from [gpt2bot](https://github.com/polakowo/gpt2bot) repository.
+
+Add your telegram bot token to the [script](./script/run_bot.sh) and run:
+
+```
+./script/run_bot.sh
+```
 
 
